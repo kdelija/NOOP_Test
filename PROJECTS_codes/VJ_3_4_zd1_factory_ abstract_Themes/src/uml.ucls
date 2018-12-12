@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Client" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/Client.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="514" y="158"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="DarkThemeMenuBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/DarkThemeMenuBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="89" y="573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="LightVisualThemeMenuBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/LightVisualThemeMenuBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="98" y="675"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="AbsFactoryTheme" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/AbsFactoryTheme.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1031" y="134"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="DarkTheme" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/DarkTheme.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1298" y="385"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="LightVisualThemeToolbar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/LightVisualThemeToolbar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="325" y="587"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="SolarizedDarkThemeScrollBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/SolarizedDarkThemeScrollBar.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="537" y="788"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="8" language="java" name="MenuBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/MenuBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="89" y="450"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="9" language="java" name="DarkThemeStatusBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/DarkThemeStatusBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="771" y="581"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="SolarizedDarkThemeToolbar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/SolarizedDarkThemeToolbar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="323" y="694"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="LightVisualThemeWindow" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/LightVisualThemeWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="984" y="583"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="StatusBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/StatusBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="765" y="457"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="LightVisualThemeScrollBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/LightVisualThemeScrollBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="532" y="681"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="Toolbar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/Toolbar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="303" y="453"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="15" language="java" name="DarkThemeToolbar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/DarkThemeToolbar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="303" y="797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="LightVisualThemeStatusBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/LightVisualThemeStatusBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="771" y="684"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="17" language="java" name="ScrollBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/ScrollBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="516" y="449"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="18" language="java" name="LightVisualTheme" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/LightVisualTheme.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1299" y="570"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="SolarizedDarkThemeMenuBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/SolarizedDarkThemeMenuBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="105" y="776"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="Window" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/Window.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="971" y="464"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="DarkThemeScrollBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/DarkThemeScrollBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="533" y="573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="SolarizedDarkTheme" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/SolarizedDarkTheme.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1297" y="747"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="SolarizedDarkThemeWindow" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/SolarizedDarkThemeWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="992" y="690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="SolarizedDarkThemeStatusBar" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/SolarizedDarkThemeStatusBar.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="764" y="791"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="DarkThemeWindow" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/DarkThemeWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="965" y="792"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="App" project="VJ_3_4_zd1_factory_ abstract_Themes" 
+    file="/VJ_3_4_zd1_factory_ abstract_Themes/src/App.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="114" x="22" y="43"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="27">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <realization id="28">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <realization id="29">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <association id="30">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="31" name="statusBar">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="32" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="33">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <association id="34">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="35" name="toolbar">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="36" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="37">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="38">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="39">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <realization id="40">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="41">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <realization id="42">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="43">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <association id="44">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="45" name="menuBar">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="46" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="48" name="abs">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="49" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="50">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="51">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <realization id="52">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="53">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <realization id="54">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <realization id="55">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <association id="56">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="57" name="scrollBar">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="58" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="60" name="window">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="61" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="62">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
