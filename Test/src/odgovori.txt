@@ -1,0 +1,1 @@
+U projektu Putni nalog app iz naprednog programiranja koristio sam Model view controller razvojni obrazac, Observer razvojni obrazac za sakupljanje i prenošenje informacija između view komponenti i controller-a i MySql bazu podataka.
